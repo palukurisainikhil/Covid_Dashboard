@@ -1,0 +1,9 @@
+.media {
+  display: flex;
+}
+
+.card_content {
+  display: flex;
+  align-items: flex-start;
+  font-weight: 200;
+}
